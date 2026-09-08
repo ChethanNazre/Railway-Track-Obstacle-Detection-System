@@ -66,4 +66,7 @@ Adjust paths and filenames to match the actual repository layout.
 The goal of this repository is to provide a simple, extensible base for detecting obstacles on railway tracks and prototyping automation responses. It emphasizes clear preprocessing and explainable detection steps so developers can iterate quickly.
 
 ## About me
-Chethan Nazre — developer and researcher focused on computer vision, embedded systems, and automation. GitHub: @ChethanNazre
+Hi, I'm Chethan Nazre — I build computer vision and automation projects. GitHub: @ChethanNazre
+
+## License
+This project is licensed under the MIT License — see the LICENSE file for details.
