@@ -49,14 +49,6 @@ The script typically writes out annotated frames, logs detections, and can be ex
 - You can test the system using recorded videos of tracks, sample image sequences, or a live camera pointed at a test track.
 - For development, annotate a small validation set to measure false positives/negatives and tune parameters (thresholds, min contour area).
 
-## Project Structure (suggested)
-- src/ or scripts/  — detection and utility scripts
-- data/             — sample videos or images
-- models/           — optional trained models if using deep learning
-- README.md         — project overview and instructions
-
-Adjust paths and filenames to match the actual repository layout.
-
 ## Extending the system
 - Replace or augment classical vision methods with a neural-network-based detector for higher reliability in varied lighting and weather.
 - Add an edge-deployment pipeline (Raspberry Pi / NVIDIA Jetson) for on-track, low-latency detection.
